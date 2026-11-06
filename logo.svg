@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="title desc">
+  <title id="title">CIRCADRA C monogram</title>
+  <desc id="desc">Geometric C-shaped circuit trace with terminal contacts.</desc>
+  <rect width="80" height="80" rx="11" fill="#17232b" />
+  <path d="M57 20H37L22 31v18l15 11h20" fill="none" stroke="#75cdbb" stroke-width="8" stroke-linejoin="miter" stroke-linecap="square"/>
+  <rect x="53" y="16" width="9" height="9" rx="1" fill="#e3f5ef" />
+  <rect x="53" y="55" width="9" height="9" rx="1" fill="#e3f5ef" />
+  <path d="M35 40h13" stroke="#75cdbb" stroke-width="3" />
+  <circle cx="51" cy="40" r="3" fill="#e3f5ef" />
+</svg>
