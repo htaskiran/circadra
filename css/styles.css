@@ -424,3 +424,6 @@ footer { background: #09131a; color: var(--on-dark-muted); }
 .shot figcaption { margin-top: 14px; font: 11px/1.5 var(--mono); color: var(--on-dark-muted); }
 
 @media (min-width: 901px) { .panel-feature { grid-column: 4; } }
+
+/* Card images */
+img.family-thumb { aspect-ratio: 2400 / 1230; height: auto; object-fit: cover; }
